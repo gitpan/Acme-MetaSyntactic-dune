@@ -35,10 +35,11 @@
             "Acme::MetaSyntactic" : "1",
             "Acme::MetaSyntactic::List" : "1",
             "Acme::MetaSyntactic::MultiList" : "1",
-            "Test::More" : 0
+            "Test::More" : 0,
+            "parent" : 0
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }

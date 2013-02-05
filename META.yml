@@ -22,4 +22,5 @@ requires:
   Acme::MetaSyntactic::List: 1
   Acme::MetaSyntactic::MultiList: 1
   Test::More: 0
-version: 0.01
+  parent: 0
+version: 0.02
